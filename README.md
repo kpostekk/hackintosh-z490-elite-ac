@@ -1,0 +1,3 @@
+Tools required:
+ - OpenCore
+ - USBToolBox
